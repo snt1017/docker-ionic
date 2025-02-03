@@ -1,6 +1,6 @@
 FROM beevelop/ionic
 
-ENV NODE_VERSION 16.20.0
+ENV NODE_VERSION 18.19.1
 
 RUN npm install -g n
 RUN n ${NODE_VERSION}

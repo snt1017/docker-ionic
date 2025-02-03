@@ -1,4 +1,4 @@
-# Latest Ionic - Node 16.20.0
+# Latest Ionic - Node 18.19.1
 
 ### based on [this repo](https://github.com/beevelop/docker-ionic).
 
